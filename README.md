@@ -1,7 +1,8 @@
 # TensorNetworks
 These are resources to manipulate and model tensor networks
 
-Here are some incredible resources to start editing and creating your own tensor networks 
+Here are some incredible resources to start editing and creating your own tensor networks
+
 https://www.tensors.net/
 https://www.tensortrace.com/
 
